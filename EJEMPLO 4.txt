@@ -12,5 +12,7 @@ anio_cumple_100 = anio_actual + (100 - edad)
 color_favorito = input("¿Cuál es tu color favorito? ")
 
 EDICION 1
+EDICION 2
+
 
 
